@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,Name,Nearest Neighbors,Mean_Score,0.6375,Mean_Runtime,0.0017785310745239257
+1,Name,Linear SVM,Mean_Score,0.5,Mean_Runtime,0.0005809545516967773
+2,Name,RBF SVM,Mean_Score,0.5,Mean_Runtime,0.0005956649780273438
+3,Name,Gaussian Process,Mean_Score,0.875,Mean_Runtime,0.0006981611251831055
+4,Name,Decision Tree,Mean_Score,0.825,Mean_Runtime,0.0005170822143554688
+5,Name,Random Forest,Mean_Score,0.875,Mean_Runtime,0.0010055065155029296
+6,Name,Neural Net,Mean_Score,0.45,Mean_Runtime,0.0007637500762939453
+7,Name,AdaBoost,Mean_Score,0.95,Mean_Runtime,0.005282044410705566
+8,Name,Naive Bayes,Mean_Score,0.5375,Mean_Runtime,0.0005547285079956054
