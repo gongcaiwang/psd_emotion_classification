@@ -1,6 +1,8 @@
 # Biosignal processing for automatic emotion recognition
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/brainhack-school2020/Biosignal-Emotions-BHS-2020/85279820daf948d114d780e39d609c4f704f8cb1)
 
+python version 11.3.1
+
 Team contributers: Danielle and Achraf
 
 ## Summary 
